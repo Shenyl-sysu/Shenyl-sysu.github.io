@@ -28,15 +28,15 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
+# twitter:
+#   username: vszhub
+#   card: summary
 logo: logo.png
 social:
   name: Shen Yilang
   links:
     - https://scholar.google.com/citations?user=MF-EffAAAAAJ&hl=en
-google_site_verification: xxxxx
+google_site_verification: https://scholar.google.com/citations?user=MF-EffAAAAAJ&hl=en
 lang: en
 
 sass:
