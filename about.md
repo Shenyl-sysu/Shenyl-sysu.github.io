@@ -26,7 +26,7 @@ News
 
 Publications
 ======
-### 2023
+## 2023
 
 **Shen, Y.**, Zhao, R., Ai, T., Han, F., & Ding, S. (2023). A raster-based method for the hierarchical selection of river networks based on stream characteristics. International Journal of Geographical Information Science, 37(10), 2262-2287.
 
@@ -38,7 +38,7 @@ Yu, J., Ai, T., Xu, H., Yan, L., & **Shen, Y.** (2023). Inconsistency Detection 
 
 Wang, L., Ai, T., Burghardt, D., **Shen, Y.**, & Yang, M. (2023). A hexagon-based method for polygon generalization using morphological operators. International Journal of Geographical Information Science, 37(1), 88-117.
 
-### 2022
+## 2022
 
 **Shen, Y.**, Li, J., Wang, Z., Zhao, R., & Wang, L. (2022). A raster-based typification method for multiscale visualization of building features considering distribution patterns. International Journal of Digital Earth, 15(1), 249-275.
 
@@ -48,13 +48,13 @@ Chen, Z., **Shen, Y.**, Lv, X., Qin, Q., & Chen, X. (2022). Variable-Scale Visua
 
 **Shen, Y.**, Ai, T., & Zhao, R. (2022). Raster-based method for building selection in the multi-scale representation of two-dimensional maps. Geocarto International, 37(22), 6494-6518.
 
-### 2021
+## 2021
 
 **Shen, Y.**, Li, J., Zhao, R., & Han, F. (2021). Multiresolution Mapping of Land Cover From Remote Sensing Images by Geometric Generalization. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-20.
 
 **Shen, Y.**, Ai, T., Chen, H., & Li, J. (2021). Multilevel mapping from remote sensing images: A case study of urban buildings. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-16.
 
-### 2020
+## 2020
 
 **Shen, Y.**, Ai, T., Li, J., Huang, L., & Li, W. (2020). A progressive method for the collapse of river representation considering geographical characteristics. International Journal of Digital Earth, 13(12), 1366-1390.
 
@@ -68,7 +68,7 @@ Zhao, R., Ai, T., Yu, W., He, Y., & **Shen, Y.** (2020). Recognition of building
 
 Wang, L., Ai, T., **Shen, Y.**, & Li, J. (2020). The isotropic organization of DEM structure and extraction of valley lines using hexagonal grid. Transactions in GIS, 24(2), 483-507.
 
-### 2019
+## 2019
 
 Ai, T., Yin, H., **Shen, Y.**, Yang, M., & Wang, L. (2019). A formal model of neighborhood representation and applications in urban building aggregation supported by Delaunay triangulation. Plos one, 14(7), e0218877.
 
@@ -78,7 +78,7 @@ Ai, T., Yin, H., **Shen, Y.**, Yang, M., & Wang, L. (2019). A formal model of ne
 
 **Shen, Y.**, Ai, T., & Yang, M. (2019). Extracting centerlines from dual-line roads using superpixel segmentation. IEEE Access, 7, 15967-15979.
 
-### 2018
+## 2018
 
 **Shen, Y.**, Ai, T., Wang, L., & Zhou, J. (2018). A new approach to simplifying polygonal and linear features using superpixel segmentation. International Journal of Geographical Information Science, 32(10), 2023-2054.
 
@@ -86,7 +86,7 @@ Ai, T., Yin, H., **Shen, Y.**, Yang, M., & Wang, L. (2019). A formal model of ne
 
 **Shen, Y.**, Ai, T., & Zhao, R. (2018). A method for color raster map annotation recognition. 武汉大学学报 (信息科学版), 43(1), 145-146.
 
-### 2017
+## 2017
 
 **Shen, Y.**, & Ai, T. (2017). A hierarchical approach for measuring the consistency of water areas between multiple representations of tile maps with different scales. ISPRS International Journal of Geo-Information, 6(8), 240.
 
