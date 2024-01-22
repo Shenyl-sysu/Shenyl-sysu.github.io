@@ -7,3 +7,13 @@ I am a Associate Professor at the School of Geospatial Engineering and Science a
 My primary research interests lie in the mapping, image processing and pattern recognition.
 
 
+
+News
+======
+·[Nov 2023] One paper is submitted to 
+
+·[Sep 2023] One paper is submitted to 
+
+·[Aug 2023] One paper is accepted to 
+
+·[May 2022] One paper is accepted to 
