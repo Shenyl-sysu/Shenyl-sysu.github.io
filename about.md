@@ -10,10 +10,18 @@ My primary research interests lie in the mapping, image processing and pattern r
 
 News
 ======
-&middot[Nov 2023] One paper is submitted to 
+&middot;[May 2023] One paper is submitted to
 
-&middot[Sep 2023] One paper is submitted to 
+&middot;[May 2023] One paper is submitted to
 
-&middot[Aug 2023] One paper is accepted to 
+&middot;[May 2022] One paper is submitted to
 
-&middot[May 2022] One paper is accepted to 
+&middot;[May 2022] One paper is submitted to
+
+&middot;[May 2021] One paper is accepted to
+
+&middot;[May 2021] One paper is accepted to
+
+&middot;[May 2020] One paper is accepted to
+
+&middot;[May 2020] One paper is accepted to
