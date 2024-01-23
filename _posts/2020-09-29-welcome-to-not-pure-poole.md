@@ -6,3 +6,4 @@ last_modified_at: 2024-01-23 23:20:25 +0800
 tags: [mapping, pattern recognition]
 toc:  true
 ---
+![Framework](/figures/SGCN-framework.jpg)
